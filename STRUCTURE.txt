@@ -1,4 +1,4 @@
-/
+/ (root of the project)
 ├──lib: python library for migrations (from openheimer to database) and server pings
 ├──shared: shared components (mostly database file || shared ENVs)
 └──server: SvelteKit server for a fancy UI 
