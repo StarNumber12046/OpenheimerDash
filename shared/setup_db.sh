@@ -1,0 +1,1 @@
+sqlite3 servers.db < db_init.sql
